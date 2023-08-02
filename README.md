@@ -1,4 +1,4 @@
-# Ethical Dilemmas faced my modern Tech
+# Ethical Dilemmas faced by modern Tech Industries
 
 # Introduction
 
