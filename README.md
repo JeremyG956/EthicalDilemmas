@@ -1,8 +1,9 @@
+# Ethical Dilemmas faced my modern Tech
+
 # Introduction
 
 In these writings, we delve into the ethical dilemmas facing today's tech companies in a rapidly evolving digital landscape. As technology continues to shape and transform businesses across the globe, companies face a multitude of complex decisions with far-reaching implications. From data collection and privacy concerns to the impact of algorithms on user behavior, the ethical considerations surrounding tech practices have become more critical than ever. Join us as we navigate through these thought-provoking topics, uncovering the challenges and opportunities that lie ahead for businesses seeking to strike a balance between innovation and ethical responsibility.
 
-# Ethical Dilemmas faced my modern Tech
 
 # What are the ethical concerns associated with storing and analyzing user data?
   Data analytics has become a massive tool in the evolving ecosystem of information systems for companies to make more informed decisions on a customer’s needs. By understanding a customer’s needs a company may personalize ad content, recommend similar products, improve user interface, and create strategies to develop software that better meets these constraints (Frankenfield, Jake). Generally, data can be categorized into two sections, public and private data. Private data like GPS location can be used to show traffic congestion on the highway. Conversely, public data such as using a social media website can be used to predict a user’s location based on the user’s daily activity (Marie Wallace). Data ethics is defined as “the moral obligations of gathering, protecting, and using personally identifiable information and how it affects individuals.”  There are five pillars of data ethics: ownership, transparency, privacy, intention, and outcomes (5 Principles of Data Ethics for Business). This new and exciting field of data analytics creates ethical dilemmas posing the question; What steps can be taken to ethically collect and analyze user data? 
